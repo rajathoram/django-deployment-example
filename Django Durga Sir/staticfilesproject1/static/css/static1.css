@@ -1,0 +1,9 @@
+body{
+background : grey;
+color: black;
+text-align : center;
+}
+
+img{
+border : 10px solid red;
+}
